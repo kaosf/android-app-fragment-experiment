@@ -11,7 +11,9 @@ public class MainActivity extends Activity {
   protected void onCreate(Bundle savedInstanceState) {
     Log.d("kaosf-app", "onCreate, savedInstanceState: " + savedInstanceState);
     super.onCreate(savedInstanceState);
-    setContentView(R.layout.activity_main);
+    if (savedInstanceState == null) {
+      setContentView(R.layout.activity_main);
+    }
   }
 
   @Override
