@@ -1,6 +1,6 @@
-# Android App Template
+# Android App Template Fragment Experiment
 
-Version 2.0.0
+forked from https://github.com/kaosf/android-app-template/releases/tag/v2.0.0
 
 ## Environment
 
