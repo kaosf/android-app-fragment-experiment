@@ -10,14 +10,14 @@
     tools:context=".MainActivity" >
 
     <Fragment
-        android:name="net.kaosfield.app.MyFragment0"
+        class="net.kaosfield.app.MyFragment0"
         android:id="@+id/fragment0"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_weight="1"
     />
     <Fragment
-        android:name="net.kaosfield.app.MyFragment1"
+        class="net.kaosfield.app.MyFragment1"
         android:id="@+id/fragment1"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
