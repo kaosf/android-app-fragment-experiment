@@ -2,6 +2,12 @@
 
 forked from https://github.com/kaosf/android-app-template/releases/tag/v2.0.0
 
+## References
+
+* http://android.keicode.com/basics/fragments-basic.php
+* http://stackoverflow.com/questions/18557706/java-lang-classnotfoundexception-in-dalvik-system-pathclassloader-findclass
+* http://d.hatena.ne.jp/sakura_bird1/20111208/1323300279
+
 ## Environment
 
 * OS: Ubuntu 12.04 amd64
