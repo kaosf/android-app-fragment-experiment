@@ -2,7 +2,6 @@ package net.kaosfield.app;
 
 import android.app.ActionBar;
 import android.app.FragmentTransaction;
-import android.util.Log;
 import android.os.Bundle;
 import android.view.Menu;
 import android.support.v4.app.FragmentActivity;
@@ -20,17 +19,14 @@ public class MainActivity extends FragmentActivity {
     ActionBar.TabListener tabListener = new ActionBar.TabListener() {
       public void onTabSelected(ActionBar.Tab tab, FragmentTransaction ft) {
         // show the given tab
-        Log.d("kaosfield", "onTabSelected");
       }
 
       public void onTabUnselected(ActionBar.Tab tab, FragmentTransaction ft) {
         // hide the given tab
-        Log.d("kaosfield", "onTabUnselected");
       }
 
       public void onTabReselected(ActionBar.Tab tab, FragmentTransaction ft) {
         // probably ignore this event
-        Log.d("kaosfield", "onTabReselected");
       }
     };
 
