@@ -4,9 +4,9 @@ forked from https://github.com/kaosf/android-app-template/releases/tag/v2.0.0
 
 ## References
 
-* http://android.keicode.com/basics/fragments-basic.php
-* http://stackoverflow.com/questions/18557706/java-lang-classnotfoundexception-in-dalvik-system-pathclassloader-findclass
-* http://d.hatena.ne.jp/sakura_bird1/20111208/1323300279
+* [フラグメントの一番簡単な利用方法 - Android 開発入門](http://android.keicode.com/basics/fragments-basic.php)
+* [android - java.lang.ClassNotFoundException in dalvik.system.PathClassLoader.findClass - Stack Overflow](http://stackoverflow.com/questions/18557706/java-lang-classnotfoundexception-in-dalvik-system-pathclassloader-findclass)
+* [Hello WorldをFragmentを使って書き換えた その２ FragmentTransactionを使う - Androidはワンツーパンチ 三歩進んで二歩下がる](http://d.hatena.ne.jp/sakura_bird1/20111208/1323300279)
 
 ## Environment
 
