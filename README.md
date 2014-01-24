@@ -54,7 +54,7 @@ forked from https://github.com/kaosf/android-app-template/releases/tag/v2.0.0
 
 Ignore `.classpath`, `.project`, `.settings/`, `bin/`, `gen/` and `local.properties`.
 
-```.gitignore
+```text
 .classpath
 .project
 .settings
